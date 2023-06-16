@@ -3416,7 +3416,7 @@ __metadata:
     "@react-navigation/native-stack": ^6.9.12
     moti: latest
     nativewind: 2.0.11
-    solito: 3.2.7
+    solito: 3.2.9
   languageName: unknown
   linkType: soft
 
@@ -11115,10 +11115,10 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"solito@npm:3.2.7":
-  version: 3.2.7
-  resolution: "solito@npm:3.2.7"
-  checksum: 1186904fc9d1db6877422d2f44c540bd54ddd35d4e7f380a6a7e23647b1525fc742cc61a7465bca941964b10c5790ef38a56c6f10b08b6f4376caccf90ac328c
+"solito@npm:3.2.9":
+  version: 3.2.9
+  resolution: "solito@npm:3.2.9"
+  checksum: 79fed7c2f71d1604007cb92f901cabbae3b8af05a0835b110dfb263d6a8d5f4cbb5f02911767e5b9a73e6552898e53ebbfe401d3aa6c9a7cfdc5a5fbf4a2c3e1
   languageName: node
   linkType: hard
 
