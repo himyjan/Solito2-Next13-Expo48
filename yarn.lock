@@ -10244,15 +10244,15 @@ __metadata:
   linkType: hard
 
 "react-native-screens@npm:~3.21.0":
-  version: 3.21.0
-  resolution: "react-native-screens@npm:3.21.0"
+  version: 3.21.1
+  resolution: "react-native-screens@npm:3.21.1"
   dependencies:
     react-freeze: ^1.0.0
     warn-once: ^0.1.0
   peerDependencies:
     react: "*"
     react-native: "*"
-  checksum: a433437920a2a1c632c799126cb55d0757cdde76dbd6353b0048ce25b7a88f0481aac5b32449ceb2f351764e11f2a073e34ad040613a7769f7673f20346f8a50
+  checksum: 7a596108749e9afef4d3ac8b169f468a1f544ebe89a9b86716badbef0c1113d0fb7d068a17b0e767c473aead3832675ed191c09f572497bf2560f0a1db7498e1
   languageName: node
   linkType: hard
 
